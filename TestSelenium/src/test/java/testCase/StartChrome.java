@@ -9,8 +9,6 @@ public class StartChrome extends BaseTestCase{
 	
 	
 	
-	
-	
 	@BeforeTest
 	public void setup(){
 		Setup();

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-26T03:09:33Z" name="Default suite" finished-at="2023-07-26T03:09:41Z" duration-ms="8179">
+  <suite started-at="2023-07-27T11:22:39 SGT" name="Default suite" finished-at="2023-07-27T11:22:51 SGT" duration-ms="11853">
     <groups>
     </groups>
-    <test started-at="2023-07-26T03:09:33Z" name="Default test" finished-at="2023-07-26T03:09:41Z" duration-ms="8179">
+    <test started-at="2023-07-27T11:22:39 SGT" name="Default test" finished-at="2023-07-27T11:22:51 SGT" duration-ms="11853">
       <class name="testCase.StartChrome">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.StartChrome@c074c0c]" started-at="2023-07-26T03:09:33Z" name="setup" finished-at="2023-07-26T03:09:41Z" duration-ms="8056" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.StartChrome@7e3f95fe]" started-at="2023-07-27T11:22:39 SGT" name="setup" finished-at="2023-07-27T11:22:51 SGT" duration-ms="11674" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Search()[pri:0, instance:testCase.StartChrome@c074c0c]" started-at="2023-07-26T03:09:41Z" name="Search" finished-at="2023-07-26T03:09:41Z" duration-ms="89" status="PASS">
+        <test-method signature="Search()[pri:0, instance:testCase.StartChrome@7e3f95fe]" started-at="2023-07-27T11:22:51 SGT" name="Search" finished-at="2023-07-27T11:22:51 SGT" duration-ms="112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Search -->
